@@ -128,7 +128,7 @@ Often IT professionals will be able to access information relating to a user’s
 
 ## Case Study
 
-##### Hypothetical Case Study pertaining to a user's personal information, by Stephanie Duffieux:
+#### Hypothetical Case Study pertaining to a user's personal information, by Stephanie Duffieux:
 
 Tom is a talented developer and has been offered a work contract by a large Australian corporation, Media Solutions, which wishes to hire him to maintain the system network within the IT department. Tom’s contract states his department supervisor as Mr Smith and that all work carried out must be reported to his direct branch supervisor Mr Doe, who works under Mr Smith’s supervision. His contract also outlines his legal obligations and a confidentiality agreement is also signed between him and his new employer. 
 
